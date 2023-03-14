@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 422a242be522ffa42bbc455ddd03516a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7776414035929423660
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_0
+  - first:
+      213: -6290901893123191294
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_1
+  - first:
+      213: -5575903515909497695
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_2
+  - first:
+      213: 5362703026503511328
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_3
+  - first:
+      213: -4590078178915665423
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_4
+  - first:
+      213: 6865710346127854591
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_5
+  - first:
+      213: 3997012286942875857
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_6
+  - first:
+      213: 5240402893336537547
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_7
+  - first:
+      213: 8259817674630768825
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_8
+  - first:
+      213: -1771653097647289353
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_9
+  - first:
+      213: -912882774373283114
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_10
+  - first:
+      213: 2927006259052139128
+    second: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 603
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0a012b2a0a41490800000000000000
+      internalID: -7776414035929423660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 603
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4f8f0f0a32b8a0800000000000000
+      internalID: -6290901893123191294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 603
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acdc507b496e92b0800000000000000
+      internalID: -5575903515909497695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_3
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 603
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d67a26df52c6a40800000000000000
+      internalID: 5362703026503511328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 317
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9b57e2734cc40c0800000000000000
+      internalID: -4590078178915665423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 317
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbcca70f27e74f50800000000000000
+      internalID: 6865710346127854591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_6
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 317
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01a167f7d387730800000000000000
+      internalID: 3997012286942875857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 317
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9e049aaa6a9b840800000000000000
+      internalID: 5240402893336537547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82cd5a964c0a270800000000000000
+      internalID: 8259817674630768825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 31
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb4381f4e2d967e0800000000000000
+      internalID: -1771653097647289353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_10
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 31
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da48ef04f9c453f0800000000000000
+      internalID: -912882774373283114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_11
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 31
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872d5264fa0de9820800000000000000
+      internalID: 2927006259052139128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_10: -912882774373283114
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_9: -1771653097647289353
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_8: 8259817674630768825
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_11: 2927006259052139128
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_7: 5240402893336537547
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_4: -4590078178915665423
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_2: -5575903515909497695
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_0: -7776414035929423660
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_6: 3997012286942875857
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_1: -6290901893123191294
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_3: 5362703026503511328
+      1626287988_6-kartinkin-com-p-teksturi-mobov-krasivo-21_5: 6865710346127854591
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
